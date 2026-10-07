@@ -247,6 +247,11 @@ en-têtes, rate-limit, couverture 2FA). La première requête vue depuis interne
 détectée automatiquement : un bandeau propose l'assistant — une exposition ne peut
 pas passer inaperçue.
 
+#### Déploiement chez [Clever-Cloud](https://console.clever-cloud.com/)
+
+Pour déployer chez CC sachez que vous ne pourrez pas déployer via docker-compose.yml, le déploiement sera une image docker + une base de donnée + un stockage file système. 
+
+
 ### Hébergement « maison » (sans ouvrir de ports)
 
 Depuis une connexion personnelle, préférez un tunnel à l'ouverture de ports :
