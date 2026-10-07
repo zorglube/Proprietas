@@ -249,7 +249,7 @@ pas passer inaperçue.
 
 #### Déploiement chez [Clever-Cloud](https://console.clever-cloud.com/)
 
-Pour déployer chez Clever-Cloud, j'ai rédigé un [petit manuel](https://blog.broncotoxique.com/2026/10/07/deploy-proprietas-on-clever-cloud/).
+Pour déployer chez Clever-Cloud, [Zorglube](https://github.com/zorglube) a rédigé un [petit manuel](https://blog.broncotoxique.com/2026/10/07/deploy-proprietas-on-clever-cloud/).
 Attention il s'agit d'un déploiement **Docker** simple, pas **Compose**. 
 
 ### Hébergement « maison » (sans ouvrir de ports)
